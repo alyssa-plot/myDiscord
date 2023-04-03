@@ -1,0 +1,1 @@
+merci de lancer serveur avant d'ouvrir un fichier, et ensuite de lancer "interface"
